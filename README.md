@@ -1,5 +1,5 @@
 # ITD210Fall19
 test repository
-Hunter Powers
+Hunter
 September 3rd, 2019
 Galbi
